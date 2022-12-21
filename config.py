@@ -8,3 +8,4 @@ host = 'localhost'
 user = 'postgres'
 password = '123qwe!'
 db_name = 'bot_users'
+
