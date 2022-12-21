@@ -1,0 +1,10 @@
+user_token = 'vk1.a.mIu1UqpUCcL2gpiidKkXxldoqGUBTEbLAcI4xK6NsS_Cdl9swzzpDKtZS_nwOwnQa0b7QZecXcyM1OnzPIx6_7wGJ3rClOqjiR1AQDL6YXi0NCL3uc3pePi0qYKlAo7JyWDfjkuXAq4TwLY95j6hCyOT4iLbEbjSRVt20AWJugEsNKQtfa3kAxEKJV928J-86JAqbLh8djxVxZ0aPWVklQ'
+group_token = 'vk1.a.JGw1OveXKWVHsu8OookbvHh3pospTAKHvWSEJzr8Quj0Nv4K2MEK9zuLg1CNkEJZ5OKP54607B2fa71Q0iUxxnxzSiEaknRjGgdaeJggfCPpRE9F_A9e676H1wWWtzZQAAQKRsAVrMWvQy2cOIKw7wSRJ_7aRVaqHe8YO_B6wxEnU1SJ3WJ1zbXfwgB-IpTClAKZHV5v4jmWKNB9CJ8ReQ'
+
+offset = 0
+iteration = range(0, 1000)
+
+host = 'localhost'
+user = 'postgres'
+password = '123qwe!'
+db_name = 'bot_users'
